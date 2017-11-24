@@ -1,0 +1,11 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "primer proyecto de nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Angel Hernandez",
+  "license": "ISC"
+}
